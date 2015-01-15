@@ -9,7 +9,6 @@
 /.latest.id
 /.travis.yml
 /.vagrant
-/node_modules
 /registry
 npm-debug.log
 npm-shrinkwrap.json
